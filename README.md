@@ -10,5 +10,5 @@ Code: https://github.com/LogicAndTrick/tm-camera-toggle-keyboard
 
 # Special thanks:
 
-XertroV's "Camera Toggle" plugin (only supports controller)
+XertroV's "Camera Toggle" plugin (only supports controller)  
 Mebe12's "Camera Enhanced for Turbo" plugin (this is what I needed, just for TM2020)
