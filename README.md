@@ -4,8 +4,8 @@ OpenPlanet plugin for Trackmania 2020.
 
 Keyboard button binding for toggling the camera between two cameras.
 
-License: Public Domain
-Authors: LogicAndTrick
+License: Public Domain  
+Authors: LogicAndTrick  
 Code: https://github.com/LogicAndTrick/tm-camera-toggle-keyboard
 
 # Special thanks:
